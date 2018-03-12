@@ -1,0 +1,28 @@
+{
+  "name": "simple-socketio",
+  "version": "0.0.1",
+  "description": "nodejs socket chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paul-Long/simple-socketio.git"
+  },
+  "keywords": [
+    "nodejs",
+    "socket",
+    "chat"
+  ],
+  "author": "paul-long <7328194@163.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Paul-Long/simple-socketio/issues"
+  },
+  "homepage": "https://github.com/Paul-Long/simple-socketio#readme",
+  "dependencies": {
+    "socket.io": "^2.0.4",
+    "socket.io-client": "^2.0.4"
+  }
+}
